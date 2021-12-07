@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spaulcurtis
 - 👀 I’m interested in networking as well as scientific programming, analytics, and machine learning.
-- 🌱 I’m currently learning Python as a way to move back into programming after almost 20 years in management
+- 🌱 I’m currently learning Python as a way to move back into programming after more than 20 years doing mostly product and technology management
 - 💞️ I’m looking to collaborate with others learning Python and especially scientific Python libraries
 - 📫 How to reach me ...
 
